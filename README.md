@@ -7,3 +7,9 @@ A collection of my work, ranging from GIS projects to exploratory data analysis 
 - [Python](#python)
 
 # GIS
+
+
+# SQL
+
+
+# Python
