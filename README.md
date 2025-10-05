@@ -2,9 +2,13 @@
 A collection of my work, ranging from GIS projects to exploratory data analysis and more. 
 
 ## Table of Contents
-- [GIS Projects](#gis)
 - [SQL](#sql)
+- [GIS](#gis)
+- [Tableau](#tableau)
 - [Python](#python)
+
+# SQL
+Coming soon... 
 
 # GIS
 
@@ -16,7 +20,7 @@ A collection of my work, ranging from GIS projects to exploratory data analysis 
 
 ***
 
-# SQL
-
+# Tableau
+Coming soon... 
 
 # Python
