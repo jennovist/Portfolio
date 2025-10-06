@@ -8,7 +8,12 @@ A collection of my work, ranging from GIS projects to exploratory data analysis 
 - [Python](#python)
 
 # SQL
-Coming soon... 
+| Project Link | Tools | Project Description |
+|---|---|---|
+|[World Layoffs Analysis](https://github.com/jennovist/world_layoffs_analysis) | MySQL | A project focused on data cleaning and exploration centered around layoff d****ata between 2020 and 2023. |
+
+***
+
 
 # GIS
 
