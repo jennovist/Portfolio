@@ -10,6 +10,7 @@ A collection of my work, ranging from GIS projects to exploratory data analysis 
 # SQL
 | Project Link | Tools | Project Description |
 |---|---|---|
+|[8 Week SQL Challenge](https://github.com/jennovist/8WeekSQLChallenge) | MySQL, PostgreSQL | A series of 8 case studies designed to solve various types of SQL problems in realistic spheres, such as marketing analytics, people analytics, and more. | 
 |[World Layoffs Analysis](https://github.com/jennovist/world_layoffs_analysis) | MySQL | A project focused on data cleaning and exploration centered around layoff data between 2020 and 2023. |
 
 ***
@@ -29,3 +30,4 @@ A collection of my work, ranging from GIS projects to exploratory data analysis 
 Coming soon... 
 
 # Python
+Coming soon... 
